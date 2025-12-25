@@ -52,9 +52,3 @@ This project demonstrates how to:
 - **Amazon S3** – To store raw and transformed data
 
 ---
-
-## 🙌 Acknowledgments
-
-Built during the **Saylani Mass IT Training - Data Engineering Hackathon** under the guidance of **Sir Qasim Hassan**.
-
----
